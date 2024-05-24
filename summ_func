@@ -1,5 +1,5 @@
   def summ_num(a, b, c):
-    return a + b + с
+    return (a + b) * 2 + с
 
   print(summ_num(5, 5, 2))
   
